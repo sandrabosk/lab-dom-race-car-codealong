@@ -273,11 +273,11 @@ In this iteration, we will create the `Player` class, representing the player's 
 
    - `height` - the height of the car element passed as an argument to the constructor.
 
-   - `directionX` - initially set to 0. It is used to specify the horizontal movement direction and can have the following values:
+   - `directionX` - initially set to 0. It is used to specify the **horizontal** movement direction and can have the following values:
      - `0`: not moving horizontally
      - `1`: moving horizontally to the right
      - `-1`: moving horizontally to the left
-   - `directionY` - initially set to 0. It is used to specify the horizontal movement direction and can have the following values:
+   - `directionY` - initially set to 0. It is used to specify the **vertical** movement direction and can have the following values:
      - `0`: not moving vertically
      - `1`: moving vertically down
      - `-1`: moving vertically up
